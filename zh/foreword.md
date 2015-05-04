@@ -12,6 +12,7 @@ Windows Azure×îÓÐÓÅÊÆµÄÁìÓòÊÇÐÔÄÜºÍ¿É¿¿ÐÔ¡£¶àÄêÒÔÀ´£¬ÒÔÎÒÃÇ´òÔìÈÎÎñ¹Ø¼üÐÔµÄÆóÒµ¼
 ´´½¨±¾Ö¸µ¼ÊéµÄÍÅ¶ÓºÍWindows Azure¿ª·¢ÍÅ¶Ó½ôÃÜµÄÅäºÏ¹¤×÷À´±£Ö¤±¾ÊéÊÇ×¼È·¡¢ÓÐÓÃºÍ×îÐÂµÄ¡£ËûÃÇ´Ó²»Í¬µÄ·½ÃæÀ´ÌÖÂÛÀ´ÈÃÄã¿´µ½Windows AzureµÄ¿ÉÓÃ·¶Î§ºÍÁé»îÐÔ£¬²»½öÈç´Ë£¬ËûÃÇÒ²°ïÖúÄãÑ¡Ôñ×îÊÊºÏÄãÓ¦ÓÃµÄÐèÇó¡£Èç¹ûÄãÏëÒªÒ»¸ö¿É¿¿µÄÖ¸µ¼£¬Á¼ºÃµÄÊµ¼ùÐÔ½¨Òé£¬¿É¹¤×÷µÄÀý×Ó£¬Ç×ÊÖÊµÑéºÍÐí¶àÍØÕ¹ÔÄ¶ÁÁ´½Ó£¬ÄÇÃ´ÄãÕÒ¶ÔÁË£¬¾ÍÊÇ±¾Êé£¡Ï£ÍûÄãÏíÊÜ±¾Êé¡£
 
 Bill Hilf
+
 Î¢ÈíWindows AzureÊÐ³¡×Ü¼à
 
 
