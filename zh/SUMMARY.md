@@ -1,3 +1,0 @@
-# Summary
-
-* [–Ú—‘](foreword.md)
