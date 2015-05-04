@@ -9,8 +9,10 @@ Windows Azure×îÓÐÓÅÊÆµÄÁìÓòÊÇÐÔÄÜºÍ¿É¿¿ÐÔ¡£¶àÄêÒÔÀ´£¬ÒÔÎÒÃÇ´òÔìÈÎÎñ¹Ø¼üÐÔµÄÆóÒµ¼
 
 ÄãµÄ¿Í»§µ£ÓÇ°üÀ¨Ò»ÏµÁÐ¶îÍâµÄÒòËØ£¬±ÈÈç°²È«ÐÔ¡¢ÒþË½ÐÔ¡¢·¨ÈË´ú±í¡¢¼à¹ÜÖÆ¶È¡£±¾ÊéÊÇÀ´×ÔÎ¢ÈíµÄÄ£Ê½ºÍÊµ¼ùÍÅ¶ÓµÄÖ¸µ¼ÊÖ²á£¬½«Òª°ïÖú¿¼ÂÇÈçºÎ½â¾öÕâÐ©ÎÊÌâ£¬Windows AzureÈçºÎ°ïÖúÄã´òµ½ÄãµÄÒªÇó£¬ÈçºÎ´ÓÎÒÃÇµÄÔÆÆ½Ì¨·þÎñÖÐ×î´óÏÞ¶ÈµÄÊÜÒæ¡£ÎÒÃÇ»ùÓÚÒ»¸öÐé¹¹µÄ¹«Ë¾TailspinÀ´´òÔìÒ»¸öÕæÊµµÄ¡¢¶à×â»§µÄÓ¦ÓÃ¡ª¡ªTailspin Surveys£¬ÕâÑù¿ÉÒÔ¸ÅÀÀÆäÖÐµÄÃ¿¸ö¾ö²ß¡¢¼Æ»®¡¢Éè¼ÆÒÔ¼°ÊµÏÖ£¬ÁíÍâÒ²ÌÖÂÛ¸ÃÓ¦ÓÃÈçºÎ²âÊÔºÍ²¿Êð£¬ÒÔ¼°ÔËÐÐÊ±µÄ¹ÜÀíºÍ¼à¿Ø¡£
 
-´´½¨±¾Ö¸µ¼ÊéµÄÍÅ¶ÓºÍWindows Azure¿ª·¢ÍÅ¶Ó½ôÃÜµÄÅäºÏ¹¤×÷À´±£Ö¤±¾ÊéÊÇ×¼È·¡¢ÓÐÓÃºÍ×îÐÂµÄ¡£ËûÃÇ´Ó²»Í¬µÄ·½ÃæÀ´ÌÖÂÛÀ´ÈÃÄã¿´µ½
+´´½¨±¾Ö¸µ¼ÊéµÄÍÅ¶ÓºÍWindows Azure¿ª·¢ÍÅ¶Ó½ôÃÜµÄÅäºÏ¹¤×÷À´±£Ö¤±¾ÊéÊÇ×¼È·¡¢ÓÐÓÃºÍ×îÐÂµÄ¡£ËûÃÇ´Ó²»Í¬µÄ·½ÃæÀ´ÌÖÂÛÀ´ÈÃÄã¿´µ½Windows AzureµÄ¿ÉÓÃ·¶Î§ºÍÁé»îÐÔ£¬²»½öÈç´Ë£¬ËûÃÇÒ²°ïÖúÄãÑ¡Ôñ×îÊÊºÏÄãÓ¦ÓÃµÄÐèÇó¡£Èç¹ûÄãÏëÒªÒ»¸ö¿É¿¿µÄÖ¸µ¼£¬Á¼ºÃµÄÊµ¼ùÐÔ½¨Òé£¬¿É¹¤×÷µÄÀý×Ó£¬Ç×ÊÖÊµÑéºÍÐí¶àÍØÕ¹ÔÄ¶ÁÁ´½Ó£¬ÄÇÃ´ÄãÕÒ¶ÔÁË£¬¾ÍÊÇ±¾Êé£¡Ï£ÍûÄãÏíÊÜ±¾Êé¡£
 
+Bill Hilf
+Î¢ÈíWindows AzureÊÐ³¡×Ü¼à
 
 
 
