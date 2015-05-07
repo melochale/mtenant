@@ -1,8 +1,8 @@
 # mtenant
-The Chinese translation of Developing Multi-tenant Applications for the Cloud on Microsoft Windows Azure，
-we are using the great ebook tool named [Gitbook](https://github.com/GitbookIO/gitbook) for writing.
 
-##Licence
+《Windows Azure多租户应用开发指南》第3版是“Developing Multi-tenant Applications for the Cloud on Microsoft Windows Azure”中文翻译开源电子书，我们使用[Gitbook](https://github.com/GitbookIO/gitbook)工具来写作。
+
+##协议
 
 The MIT License (MIT)
 
@@ -25,3 +25,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
