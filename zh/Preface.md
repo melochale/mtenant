@@ -8,15 +8,25 @@
 
 ## 谁适合本书
 
-本书是关于Windows Azure系列书籍的第二卷，卷一是《Windows Azure应用迁移》，它讨论托管选项，费用模型和云端应用生命周期管理；另外也描述了现存的ASP.NET应用迁移到云端的几种场景。本书展示了使用Windows Azure最新的工具和特性来创建一个多租户的PaaS应用。
+本书是关于Windows Azure系列书籍的第二卷，卷一是《Windows Azure应用迁移指南》，它讨论托管选项，费用模型和云端应用生命周期管理；另外也描述了现存的ASP.NET应用迁移到云端的几种场景。本书展示了使用Windows Azure最新的工具和特性来创建一个多租户的PaaS应用。
 
 本书适合架构师、开发者、IT专业人士，他们想要设计、建设、或者维护部署在云端交互的应用和服务。尽管应用不需要基于微软Windows操作系统和.NET语言来使用Window Azure，本书还是写给工作于Windows系统相关的人员。他们应该熟悉Microsoft .NET Framework，Microsoft Visual Studio开发环境，ASP.NET MVC模式，和Microsoft Visual C#编程语言。
 
 ## 为什么本书是相关的
 
+总的来说，云技术已经成为了可行的选择来让你的应用可以被广泛的用户接入。正好，Windows Azure有一套完整的工具供开发者和IT专业人士使用。开发者可以用他们熟悉的技术来开发云端应用，比如Visual Studio，除此之外，Windows Azure也包含了云端存储模拟器和计算模拟器，在部署应用在云端之前，可以供开发者本地编写、测试和调试他们的应用。另外也提供一些工具和API来管理你的Windows Azure账户。本书向您展示了在一些常见的场景中，你该如何使用这些工具，最后如何在Windows Azure中开发全新的、多租户的SaaS应用。
+
 ## 本书如何组织
 
+以下管状图向您展示了本书是如何组织的
+
+![](images/HowThisGuideIsStructured.jpg?raw=true)
+
+“Tailspin场景”向您介绍了Tailspin公司和他们的Surveys应用。
+
 ## 使用代码
+
+
 
 ## 更多信息
 
