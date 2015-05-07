@@ -38,12 +38,33 @@
 
 ## 使用代码
 
+运行场景代码时你需要如下系统要求
 
+* Microsoft Windows 7 with Service Pack 1, Microsoft Windows 8, Microsoft Windows Server 2008 R2 with Service Pack 1, or Microsoft Windows Server 2012 (32位或者64位版本)
 
+* Microsoft .NET Framework 4.0
+
+* Microsoft Visual Studio 2010 Ultimate, Premium, or Professional edition with Service Pack 1，或者Visual Studio 2012 Ultimate, Premium, or Professional
+
+* Windows Azure SDK (包括由Visual Studio提供Windows Azure相关工具)。查看每个版本的发布信息
+
+* Microsoft SQL Server 2012, SQL Server Express 2012, SQL Server 2008, or SQL Server Express 2008。根据你的系统需求和软件版本信息匹配安装
+
+* ASP.NET MVC 4 Framework
+
+* Windows Identity Foundation。当用做基本的授权时需要
+
+* WebAii testing framework。 只有当需要功能测试时需要。请将Lib\WebAii下的库文件ArtOfTest.WebAii.dll放入例子程序中
+
+当你运行项目解决方案时，需要的其他组件和框架可以通过NuGet来获得，请查看安装和配置的例子说明信息。
 
 ## 更多信息
 
+本书列出了许多的相关资源信息。他们可以帮助你获得额外的背景知识，使你加快技术上的速度等等。为了方便，有在线参考资源，他们包含了许多你可以点击访问的链接。
+
 ## 评论
+
+
 
 
 
