@@ -1,7 +1,7 @@
 # mtenant
 The Chinese translation of Developing Multi-tenant Applications for the Cloud on Microsoft Windows Azure, we are using the great ebook tool named [Gitbook](https://github.com/GitbookIO/gitbook) for writing.
 
-# Content
+## Content
 
 [中文说明](README_CN.md)
 

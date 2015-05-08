@@ -64,7 +64,11 @@
 
 ## 评论
 
+下面是一些专家关于本书Tailspin开发成果和Surveys例子应用的评论。他们包括云技术专家、软件架构师、开发者、IT专业人士。Surveys应用要表述的东西可以从这些评论中有所感悟。以下列出了这些专家评论意见。
 
+![](images/Who'sWho01.jpg?raw=true)
+
+![](images/Who'sWho02.jpg?raw=true)
 
 
 
