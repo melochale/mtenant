@@ -2,7 +2,13 @@
 
 《Windows Azure多租户应用开发指南》第3版是“Developing Multi-tenant Applications for the Cloud on Microsoft Windows Azure”中文翻译开源电子书，我们使用[Gitbook](https://github.com/GitbookIO/gitbook)工具来写作。
 
-##协议
+![](cover.jpg?raw=true)
+
+## 内容
+
+[中文目录](zh/SUMMARY.md)
+
+## 协议
 
 The MIT License (MIT)
 
