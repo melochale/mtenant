@@ -19,5 +19,19 @@ Windows Azure在很多方面是特别的，其中一点就是创新性。许多�
 
 我们有覆盖了大部分章节的示例代码与书籍内容同步进行，它演示本书讨论的东西。我要感谢该项目的开发和测试团队在技术上合理和专注的取舍平衡才有了简单易懂的代码，他们是：Masashi Narumoto (Microsoft Corporation)，Scott Densmore (Microsoft Corporation)，Federico Boerr (Southworks)，Adrián Menegatti (Southworks)，Hanz Zhang (Microsoft Corporation)，Ravindra Mahendravarman (Infosys Ltd.)， Rathi Velusamy (Infosys Ltd.)。
 
+本书必须技术上是准确的且也有寓教于乐性。这不是简单的任务，我想感谢编辑团队成员Dominic Betts (Content Master Ltd)，RoAnn Corbisier (Microsoft Corporation)，Alex Homer (Microsoft Corporation)，和Tina Burden，正是他们擅长的。 
 
+本书的可视化设计概念原是由Roberta Leibovitz和Colin Campbell(Modeled Computation LLC)在《 基于声明的身份识别和接入控制指南》中提出的。由于受到良好的反馈，我们决定在本书中重用它。本书设计是由John Hubbard (eson)完成的。卡通表情是源于西雅图的获奖漫画家Ellen Forney绘画的。技术插图是由Rob Nance和Katie Niemer根据我的PC平板模型适配完成的。
+
+所有本书的内容都被大批的客户、伙伴、同事审核、评论和校对过。我们也收到了来自CodePlex的更大的社区的反馈。Windows Azure平台广泛、跨越了多个领域。我们非常幸运能够有如此多样和娴熟的读者智囊团。
+
+我也想感谢所有本书早期草稿志愿贡献时间和专家意见的人士，在他们中，有特别贡献的有：David Aiken (Microsoft Corporation) Graham Astor (Avanade), Edward Bakker (Inter Access), Vivek Bhatnagar (Microsoft Corporation), Patrick Butler Monterde (Microsoft Corporation), Shy Cohen, James Conard (Microsoft Corporation), Brian Davis (Longscale), Aashish Dhamdhere (Windows Azure, Microsoft Corporation), Andreas Erben (DAENET), Giles Frith, Eric L. Golpe (Microsoft Corporation), Johnny Halife (Southworks), Simon Ince (Microsoft Corporation), Joshy Joseph (Microsoft Corporation), Andrew Kimball, Milinda Kotelawele (Longscale), Mark Kottke (Microsoft Corporation), Chris Lowndes (Avanade), Dianne O’Brien (Windows Azure, Microsoft Corporation), Steffen Vorein (Avanade), Michael Wood (Strategic Data Systems)。
+
+希望本书对您有益。
+
+Eugenio Pace
+
+模式和实践团队高级项目经理
+
+微软公司
 
