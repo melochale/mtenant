@@ -17,6 +17,7 @@ Windows Azure在很多方面是特别的，其中一点就是创新性。许多�
 
 首先，我想感谢以下话题专家和贡献者对本指南的帮助，他们是：Dominic Betts（Content Master Ltd），Scott Densmore（Microsoft Corporation）， Ryan Dunn，Steve Marx，和Matias Woloski。Dominic有不凡的技巧来熟悉一个包含大量细节的课题，并且他知道如何找到一种精确、完整和简单易懂的方法解释给其他人。Scott带给我们打造可伸缩性的Windows Azure应用丰富的知识，他加入我们团队之前正是做这个事情的，另外它也给我们带来了多年的经验，是关于如何为开发者打造框架和工具。我有幸与Ryan在之前的项目中合作过，我总是从他的敏锐性、洞察力和经验中受益良多。作为一个Windows Azure的布道者，他总能向我们展示客户真正需要的东西。Steve是Windows Azure的技术战略家，他在塑造本指导书方面给予了很多帮助。我们依赖他向我们展示不仅Azure云平台目前能做什么，而且包括该平台将来如何演进。这非常的重要，因为我们想要我们提供的指南与长远的目标一致。最后同样重要的是，Matias是和我很多项目在一起的专家，在Windows Azure初期他就已经加入其中，他的努力对创建本书有宝贵的价值。
 
+我们有覆盖了大部分章节的示例代码与书籍内容同步进行，它演示本书讨论的东西。我要感谢该项目的开发和测试团队在技术上合理和专注的取舍平衡才有了简单易懂的代码，他们是：Masashi Narumoto (Microsoft Corporation)，Scott Densmore (Microsoft Corporation)，Federico Boerr (Southworks)，Adrián Menegatti (Southworks)，Hanz Zhang (Microsoft Corporation)，Ravindra Mahendravarman (Infosys Ltd.)， Rathi Velusamy (Infosys Ltd.)。
 
 
 
