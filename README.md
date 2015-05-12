@@ -5,6 +5,8 @@ The Chinese translation of Developing Multi-tenant Applications for the Cloud on
 
 ## Content
 
+[Chinese Version Book Summary](zh/SUMMARY.md)
+
 [中文说明](README_CN.md)
 
 ## Licence
