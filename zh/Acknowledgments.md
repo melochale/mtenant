@@ -33,5 +33,21 @@ Eugenio Pace
 
 模式和实践团队高级项目经理
 
+## 第三版致谢
+
+Windows Azure是一个不断演进的平台，我们最初在2010年发布了它的第一个版本，介绍了它的一些基础特性。我非常开心现在能够发布本书的第三个版本，该版本更多的关注与多租户场景，它描述了多租户应用软件或服务一些挑战，比如数据分区、数据可扩展性、自动配置、组合定制等等。
+
+随着我们的领域逐渐壮大，我们也加入许多新的社区成员和业界专家，他们对本书的第三版提供了重大的帮助。我想感谢如下特殊贡献的人士：Dominic Betts (ContentMaster), Alex Homer (Microsoft Corporation), Alejandro Jezierski (Southworks), Mauro Krikorian (Southworks), Jorge Rowies (Southworks), Marcos Castany (Southworks), Hanz Zhang (Microsoft Corporation), Rathi Velusamy (Infosys), RoAnn Corbisier (Microsoft Corporation), Nelly Delgado (Microsoft Corporation), Eugenio Pace (Microsoft Corporation), Carlos Farre (Microsoft Corporation), Trent Swanson (Full Scale 180 Inc.), Ercenk Keresteci (Full Scale 180 Inc.), Jane Sinyagina (Microsoft Corporation), Hatay Tuna (Microsoft Corporation), Patrick Butler Monterde (Microsoft Corporation),Michael Wood。我也想感谢所有参与我们Codeplex社区的成员。
+
+Masashi Narumoto
+
+模式和实践团队高级项目经理
+
 微软公司
 
+雷德蒙德州，2012年10月
+
+
+
+
+微软公司
