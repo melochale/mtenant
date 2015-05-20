@@ -20,7 +20,7 @@
 
 以下管状图向您展示了本书是如何组织的
 
-![](images/HowThisGuideIsStructured.jpg?raw=true)
+![ ](images/HowThisGuideIsStructured.jpg)
 
 “Tailspin场景”章向您介绍了Tailspin公司和他们的Surveys应用。并提供了该应用的架构概览，接下来的章节提供了更多的关于Tailspin如何设计和实现云端的Surveys应用。阅读这章会帮助你理解该公司的业务模型，采用云平台的一些策略。它也会帮助你理解该公司在设计应用时不得不做的基本决择。
 
@@ -66,9 +66,9 @@
 
 下面是一些专家关于本书Tailspin开发成果和Surveys例子应用的评论。他们包括云技术专家、软件架构师、开发者、IT专业人士。Surveys应用要表述的东西可以从这些评论中有所感悟。以下列出了这些专家评论意见。
 
-![](images/Who'sWho01.jpg?raw=true)
+![ ](images/Who'sWho01.jpg)
 
-![](images/Who'sWho02.jpg?raw=true)
+![ ](images/Who'sWho02.jpg)
 
 
 
