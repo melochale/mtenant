@@ -1,8 +1,10 @@
 # 术语翻译
 
-* Tenant              租户  
-* Subscriber          订阅用户  
-* Website             站点  
-* Multi-tenant        多租户  
-* Customer            客户  
+* tenant              租户  
+* subscriber          订阅用户  
+* website             站点  
+* multi-tenant        多租户  
+* customer            客户  
+* surveys             问卷调查
+* geo-distribution    地域分布式
 
