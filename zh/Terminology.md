@@ -10,5 +10,6 @@
 * service package                   服务方案
 * requirement                       要求
 * single sign-on(SSO)               单点登录  
-
+* web roles                         Web角色
+* worker roles                      辅助角色         
 
