@@ -11,5 +11,8 @@
 * requirement                       要求
 * single sign-on(SSO)               单点登录  
 * web roles                         Web角色
-* worker roles                      辅助角色         
+* worker roles                      辅助角色 
+* provisioning                      服务开通
+* on-boarding                       客户入门
+
 
