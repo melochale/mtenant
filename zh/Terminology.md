@@ -14,5 +14,6 @@
 * worker roles                      辅助角色 
 * provisioning                      服务开通
 * on-boarding                       客户入门
+* economies of scale                规模经济
 
 
