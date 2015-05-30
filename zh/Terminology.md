@@ -15,5 +15,6 @@
 * provisioning                      服务开通
 * on-boarding                       客户入门
 * economies of scale                规模经济
-
+* regulatory constraints            监管约束  
+* regulatory Compliance             监管遵从
 
