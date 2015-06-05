@@ -17,4 +17,5 @@
 * economies of scale                规模经济
 * regulatory constraints            监管约束  
 * regulatory Compliance             监管遵从
+* on-promises                       本地部署
 
