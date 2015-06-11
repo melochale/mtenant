@@ -23,3 +23,7 @@
 * The Transient Fault Handling Application Block            瞬时故障处理应用程序块
 * scale out                                                 水平扩展（增加主机实例来扩展）
 * scale up                                                  垂直扩展（增强机器性能来扩展）
+* throttle                                                  限流/流量控制
+* partitioning scheme                                       分区模式
+* service level agreements                                  服务等级协议
+* active directory                                          活动目录
