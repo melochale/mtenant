@@ -27,3 +27,5 @@
 * partitioning scheme                                       分区模式
 * service level agreements                                  服务等级协议
 * active directory                                          活动目录
+* survey respondent                                         调查问卷填写者
+* on-boarding                                               客户入门
