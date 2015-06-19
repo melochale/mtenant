@@ -29,3 +29,4 @@
 * active directory                                          活动目录
 * survey respondent                                         调查问卷填写者
 * on-boarding                                               客户入门
+* pay per use                                               按用量计费
