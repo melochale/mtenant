@@ -30,3 +30,4 @@
 * survey respondent                                         调查问卷填写者
 * on-boarding                                               客户入门
 * pay per use                                               按用量计费
+* partition key                                             分区键
